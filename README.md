@@ -85,3 +85,14 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 <sub>Building systems that survive contact with real users.</sub>
 
 </div>
+
+---
+
+## 🐾 Visitor
+
+![Visitor Count](https://count.getloli.com/@kilisamemarisaaa?name=kilisamemarisaaa&theme=rule34&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+## 💻 OS
+
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
