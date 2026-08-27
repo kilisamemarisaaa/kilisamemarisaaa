@@ -9,30 +9,15 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 
 ---
 
-## ▸ 技术栈 / Stack
+## ▸ 技术栈 / Toolbox
 
-### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,rust,bash,git,github,linux,nodejs,vscode&perline=11" alt="JavaScript, HTML, CSS, C, Rust, Bash, Git, GitHub, Linux, Node.js and VS Code" />
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Data
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Quality & AI
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,fastify,postgres,sqlite,docker,playwright&perline=9" alt="TypeScript, React, Next.js, Python, Fastify, PostgreSQL, SQLite, Docker and Playwright" />
+</p>
 
 ---
 
@@ -60,7 +45,7 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 
 ## 🐾 Visitor
 
-![Visitor Count](https://count.getloli.com/@kilisamemarisaaa?name=kilisamemarisaaa&theme=rule34&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto)
+![Visitor Count](https://count.getloli.com/@kilisamemarisaaa?name=kilisamemarisaaa&theme=rule34&padding=6&offset=0&align=top&scale=3&pixelated=1&darkmode=auto)
 
 ## 💻 OS
 
