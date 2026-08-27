@@ -1,12 +1,6 @@
 <div align="center">
 
-```text
-    __  ______    ____  _________ ___ 
-   /  |/  /   |  / __ \/  _/ ___//   |
-  / /|_/ / /| | / /_/ // / \__ \/ /| |
- / /  / / ___ |/ _, _// / ___/ / ___ |
-/_/  /_/_/  |_/_/ |_/___//____/_/  |_|
-```
+<img src="./assets/marisa-banner.png" alt="MARISA — terminal-style developer banner featuring Kirisame Marisa" width="100%" />
 
 **俞可 · YU KE** — 全栈工程师，把业务从界面、接口、数据到 AI 链路和上线运维端到端做成可运行的系统  
 Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operations — delivered end to end.
