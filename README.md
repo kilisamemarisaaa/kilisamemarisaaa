@@ -60,7 +60,7 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 
 ## 🐾 Visitor
 
-![Visitor Count](https://count.getloli.com/@kilisamemarisaaa?name=kilisamemarisaaa&theme=rule34&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![Visitor Count](https://count.getloli.com/@kilisamemarisaaa?name=kilisamemarisaaa&theme=rule34&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto)
 
 ## 💻 OS
 
