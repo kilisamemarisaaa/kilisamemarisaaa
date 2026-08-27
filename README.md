@@ -1,121 +1,105 @@
 <div align="center">
 
-# 俞可 · YU KE
+```text
+               /\
+              /  \
+             / /\ \
+            / /  \ \
+           /_/____\_\
+      ____/__________\____
+     /____________________\
+        |  ~~~~~~~~~~~~  |
+        | ~ (o)  (o) ~  | 8
+        |  ~   __   ~  |  8
+        |   ~ \__/  ~ | 8<
+         \__________/ | 8
+         /|        |\ |/
+        / |        | \   ___
+       /  |        |  \_/   \______
+      /   |________|   |          \
+     /    | .-""-. |    \______    \
+     |    |( ())|  |          \    |
+     |    |'-..-'|       _____/    |
+     |    '------'      /         /
+     |_________________/_________/_____
+                       \\\\\\\\\\\\
+                        \\\\\\\\\\
+```
 
-### 全栈工程师 · 教育科技 / AI 应用
-
-`2024 级计算机在读` · `独立交付可上线业务系统`
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-kilisamemarisaaa-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kilisamemarisaaa)
-[![Email](https://img.shields.io/badge/QQ%20Mail-1798456934-1677FF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:1798456934@qq.com)
-[![Stack](https://img.shields.io/badge/Stack-TS%20%7C%20React%20%7C%20Next.js%20%7C%20Node-58A6FF?style=for-the-badge)](https://github.com/kilisamemarisaaa)
+**俞可 · YU KE** — 全栈工程师，把业务从界面、接口、数据到 AI 链路和上线运维端到端做成可运行的系统  
+Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operations — delivered end to end.
 
 </div>
 
 ---
 
-## 你好
+## ▸ 我能解决的问题 / Engineering focus
 
-我是 **俞可（YU KE）**，应急管理大学计算机专业在读。  
-擅长把业务从 **界面 → 接口 → 数据 → AI 链路 → 生产运维** 一条龙做完，而不是停在 demo。
-
-```text
-需求澄清
-   │
-   ▼
-权限 / 路由 ──► 状态机 / 账本 ──► API + UI
-   │                                 │
-   └──── AI 回调 / Agent 边界 ◄──────┘
-                    │
-                    ▼
-            部署冒烟 · 备份 · 巡检
-```
+- **多角色权限与作业流**：管理员 / 教师 / 学生三端任务发布、开放与指定报名、PDF 答卷上传、教师复核与查重，权限边界用角色路由和共享契约锁住。
+- **异步 AI 回调与失败重试**：为 AI 阅卷设计提交状态机，支持 Bearer / Header / HMAC 三种回调鉴权，异步上传、失败重试、批改结果落盘，不靠裸调模型。
+- **事务一致性**：积分钱包采用不可变流水 + 事务保证并发一致，审核、授权、邀请等业务规则在服务端统一收口。
+- **Agent 边界与安全读接口**：IM Agent 分层为 Web 控制面 / Runtime / Gateway / Session，模型不能越权审核、改分或外发；safe-read 接口只暴露状态、计数与哈希，不回传原始会话材料。
 
 ---
 
-## 我在做的事
+## ▸ 代表项目 / Selected work
 
-<table>
-<tr>
-<td width="33%" valign="top">
+> 以下项目为真实交付或独立作品，仓库未公开，此处按可核验口径描述。
 
-### 教学 AI 阅卷
-三角色作业中台  
-JWT 角色路由  
-AI 提交状态机  
-回调鉴权（Bearer / Header / HMAC）  
-PM2 部署冒烟  
+### 教学作业与 AI 阅卷平台
+**全栈 · Next.js / Prisma / SQLite**
 
-</td>
-<td width="33%" valign="top">
+- **目标**：把教学作业从收发、批改到归档数字化，三端可用。
+- **职责**：独立完成界面、服务端、数据库与外部 AI 集成，含部署冒烟、备份与健康检查。
+- **关键设计**：AI 提交状态机 + 三种回调鉴权；异步上传与失败重试；PM2 进程管理与部署冒烟脚本。
+- **验证**：生产环境运行，含教师复核与查重环节。
 
-### 业务协作平台
-审核 · 积分账本 · 联系授权  
-HttpOnly Cookie + scrypt  
-共享 Zod 契约  
-事务一致性  
-Playwright E2E  
+### 销合居销售资源市场
+**全栈 · React / Fastify / PostgreSQL**
 
-</td>
-<td width="33%" valign="top">
+- **目标**：IT 销售资源协作平台，含审核、积分钱包、联系授权与居主机制。
+- **职责**：全栈实现，自然语言 Agent 与业务规则共用同一套服务端逻辑。
+- **关键设计**：不可变积分流水 + 事务一致性；模型不能越权审核 / 改分 / 外发。
+- **验证**：单元测试到 Playwright E2E 全链路覆盖。
 
-### IM Agent 产品
-Web 控制面  
-Agent Runtime  
-QQ Gateway / Session 分层  
-safe-read 安全边界  
-契约测试与发布门禁  
+### Kilisame Marisa 数字生命
+**独立作品 · Next.js / Python Agent**
 
-</td>
-</tr>
-</table>
+- **目标**：可在线运行的 IM 数字生命，私聊 Work Mode / 群聊 Life Mode。
+- **职责**：独立完成 Web 控制面、Agent Runtime、QQ Gateway / Session 分层。
+- **关键设计**：OpenAI 兼容 bridge + skills 机制；safe-read 仅暴露状态 / 计数 / 哈希。
+- **验证**：契约测试与发布门禁保障每次变更。
 
 ---
 
-## 技术栈
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,sqlite,mongodb,docker,github,vscode&theme=dark" alt="Tech stack icons" />
-</p>
+## ▸ 技术栈 / Stack
 
 | 层 | 内容 |
-|:---|:---|
+|:--|:--|
 | **前端** | TypeScript · React · Next.js · HTML/CSS · 双语与响应式 |
-| **服务端** | Node.js · Python · Fastify · Express · Prisma · Zod · JWT |
-| **数据** | PostgreSQL · SQLite · MongoDB · 事务与不可变积分流水 |
-| **工程 / AI** | Playwright · Docker · PM2 · OpenAI API · 回调状态机 · Agent 安全边界 |
+| **服务端与数据** | Node.js · Python · Fastify · Express · PostgreSQL · Prisma · SQLite · MongoDB · Zod |
+| **工程质量与 AI** | Playwright E2E · Docker · PM2 · JWT · OSS · OpenAI API · 状态机/回调 · Agent 安全边界 |
+
+工程交付习惯：部署冒烟、备份脚本、健康检查与恢复流程随系统一起交付，不是事后补的。
 
 ---
 
-## 工作方式
+## ▸ 开源动态 / Open source
 
-- **一人闭环**：能从 0 到 1 交付，也能把系统接到生产运维  
-- **规则写进代码**：权限、账本、模型边界用契约与测试锁住  
-- **AI 工程化**：鉴权、重试、落盘、可观测，而不是裸调模型  
+近期在向 expressjs 上游（body-parser、multer）阅读源码并推进贡献，fork 仓库见主页仓库列表。
 
 ---
 
-## 联系我
+## ▸ 联系 / Contact
 
 | | |
-|:---|:---|
+|:--|:--|
 | **GitHub** | [github.com/kilisamemarisaaa](https://github.com/kilisamemarisaaa) |
 | **Email** | [1798456934@qq.com](mailto:1798456934@qq.com) |
-| **教育** | 应急管理大学 · 计算机 · 2024 年入学（在读） |
 | **方向** | 全栈 / 教育科技 / AI 应用 |
-
----
 
 <div align="center">
 
-<br/>
-
-**Building systems that survive contact with real users.**
-
-<sub>
-Profile README for <code>kilisamemarisaaa</code> · claims stay aligned with the public résumé
-</sub>
+<sub>Building systems that survive contact with real users.</sub>
 
 </div>
