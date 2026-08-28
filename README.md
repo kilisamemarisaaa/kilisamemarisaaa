@@ -27,20 +27,11 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kilisamemarisaaa&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" alt="GitHub stats" height="165" />
   <img src="https://streak-stats.demolab.com?user=kilisamemarisaaa&hide_border=true&theme=tokyonight&background=00000000" alt="Contribution streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilisamemarisaaa&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=10" alt="Most used languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kilisamemarisaaa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kilisamemarisaaa&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="Contribution activity graph" width="100%" />
+  <img src="https://trophy.ryglcloud.net/?username=kilisamemarisaaa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" width="100%" />
 </p>
 
 <p align="center">
