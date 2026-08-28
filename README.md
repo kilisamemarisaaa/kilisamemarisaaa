@@ -12,11 +12,7 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 ## ▸ 技术栈 / Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,c,rust,bash,git,github,linux,nodejs,vscode&perline=11" alt="JavaScript, HTML, CSS, C, Rust, Bash, Git, GitHub, Linux, Node.js and VS Code" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,fastify,postgres,sqlite,docker,playwright&perline=9" alt="TypeScript, React, Next.js, Python, Fastify, PostgreSQL, SQLite, Docker and Playwright" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,rust,bash,git,github,linux,nodejs,ts,react,nextjs,python,fastify,postgres,sqlite,docker,playwright,vscode&perline=10" alt="JavaScript, HTML, CSS, C, Rust, Bash, Git, GitHub, Linux, Node.js, TypeScript, React, Next.js, Python, Fastify, PostgreSQL, SQLite, Docker, Playwright and VS Code" />
 </p>
 
 ---
@@ -32,18 +28,11 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 
 ---
 
-## ▸ 操作系统 / OS
+## ▸ 环境 / Environment
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-</p>
-
----
-
-## ▸ 终端 / Terminal
-
-<p align="center">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Bash" />
 </p>
