@@ -2,8 +2,10 @@
 
 <img src="./assets/marisa-banner.png" alt="MARISA — terminal-style developer banner featuring Kirisame Marisa" width="100%" />
 
-**俞可 · YU KE** — 全栈工程师，把业务从界面、接口、数据到 AI 链路和上线运维端到端做成可运行的系统  
-Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operations — delivered end to end.
+### 俞可 · YU KE
+
+全栈工程师 — 把业务从界面、接口、数据到 AI 链路和上线运维端到端做成可运行的系统  
+<i>Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operations — delivered end to end.</i>
 
 </div>
 
@@ -23,7 +25,12 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 
 ## ▸ 开源动态 / Open source
 
-近期在向 expressjs 上游（body-parser、multer）阅读源码并推进贡献，fork 仓库见主页仓库列表。
+正在向 expressjs 上游推进贡献，fork 仓库见主页仓库列表：
+
+<p align="center">
+  <a href="https://github.com/kilisamemarisaaa/body-parser"><img src="https://img.shields.io/badge/expressjs-body--parser-000000?style=for-the-badge&logo=express&logoColor=white" alt="body-parser" /></a>
+  <a href="https://github.com/kilisamemarisaaa/multer"><img src="https://img.shields.io/badge/expressjs-multer-000000?style=for-the-badge&logo=express&logoColor=white" alt="multer" /></a>
+</p>
 
 ---
 
