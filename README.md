@@ -8,7 +8,7 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,c,rust,bash,git,github,linux,nodejs,ts,react,nextjs,python,fastify,postgres,sqlite,docker,playwright,vscode&perline=10" alt="JavaScript, HTML, CSS, C, Rust, Bash, Git, GitHub, Linux, Node.js, TypeScript, React, Next.js, Python, Fastify, PostgreSQL, SQLite, Docker, Playwright and VS Code" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,rust,bash,git,github,linux,nodejs,ts,react,nextjs,python,express,postgres,sqlite,prisma,docker,mongodb&perline=10" alt="JavaScript, HTML, CSS, C, Rust, Bash, Git, GitHub, Linux, Node.js, TypeScript, React, Next.js, Python, Express, PostgreSQL, SQLite, Prisma, Docker and MongoDB" />
 </p>
 
 <p align="center">
