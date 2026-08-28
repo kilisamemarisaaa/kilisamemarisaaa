@@ -35,5 +35,13 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 </div>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kilisamemarisaaa/kilisamemarisaaa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kilisamemarisaaa/kilisamemarisaaa/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/kilisamemarisaaa/kilisamemarisaaa/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://count.getloli.com/@kilisamemarisaaa?name=kilisamemarisaaa&theme=rule34&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto" alt="Visitor Count" width="100%" />
 </p>
