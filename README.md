@@ -29,11 +29,10 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 
 ## ▸ 联系 / Contact
 
-| | |
-|:--|:--|
-| **GitHub** | [github.com/kilisamemarisaaa](https://github.com/kilisamemarisaaa) |
-| **Email** | [1798456934@qq.com](mailto:1798456934@qq.com) |
-| **方向** | 全栈 / 教育科技 / AI 应用 |
+<p align="center">
+  <a href="https://github.com/kilisamemarisaaa"><img src="https://img.shields.io/badge/GitHub-kilisamemarisaaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:1798456934@qq.com"><img src="https://img.shields.io/badge/Email-1798456934%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 <div align="center">
 
