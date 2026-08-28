@@ -32,6 +32,24 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 
 ---
 
+## ▸ 操作系统 / OS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+</p>
+
+---
+
+## ▸ 终端 / Terminal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Bash" />
+</p>
+
+---
+
 ## ▸ 联系 / Contact
 
 <p align="center">
@@ -47,22 +65,8 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 
 ---
 
-## 🐾 Visitor
+## ▸ 访客 / Visitor
 
 <p align="center">
   <img src="https://count.getloli.com/@kilisamemarisaaa?name=kilisamemarisaaa&theme=rule34&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto" alt="Visitor Count" width="100%" />
-</p>
-
-## 💻 OS
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-</p>
-
-### ⌨️ Terminal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Bash" />
 </p>
