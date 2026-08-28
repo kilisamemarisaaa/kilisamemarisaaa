@@ -46,7 +46,7 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 ## 🐾 Visitor
 
 <p align="center">
-  <img src="https://count.getloli.com/@kilisamemarisaaa?name=kilisamemarisaaa&theme=rule34&padding=6&offset=0&align=top&scale=3&pixelated=1&darkmode=auto" alt="Visitor Count" width="100%" />
+  <img src="https://count.getloli.com/@kilisamemarisaaa?name=kilisamemarisaaa&theme=rule34&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto" alt="Visitor Count" width="100%" />
 </p>
 
 ## 💻 OS
