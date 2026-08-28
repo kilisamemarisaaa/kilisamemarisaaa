@@ -7,28 +7,14 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 
 </div>
 
----
-
-## ▸ 技术栈 / Toolbox
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,c,rust,bash,git,github,linux,nodejs,ts,react,nextjs,python,fastify,postgres,sqlite,docker,playwright,vscode&perline=10" alt="JavaScript, HTML, CSS, C, Rust, Bash, Git, GitHub, Linux, Node.js, TypeScript, React, Next.js, Python, Fastify, PostgreSQL, SQLite, Docker, Playwright and VS Code" />
 </p>
-
----
-
-## ▸ 开源动态 / Open source
-
-正在向 expressjs 上游推进贡献，fork 仓库见主页仓库列表：
 
 <p align="center">
   <a href="https://github.com/kilisamemarisaaa/body-parser"><img src="https://img.shields.io/badge/expressjs-body--parser-000000?style=for-the-badge&logo=express&logoColor=white" alt="body-parser" /></a>
   <a href="https://github.com/kilisamemarisaaa/multer"><img src="https://img.shields.io/badge/expressjs-multer-000000?style=for-the-badge&logo=express&logoColor=white" alt="multer" /></a>
 </p>
-
----
-
-## ▸ 环境 / Environment
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
@@ -36,10 +22,6 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Bash" />
 </p>
-
----
-
-## ▸ 联系 / Contact
 
 <p align="center">
   <a href="https://github.com/kilisamemarisaaa"><img src="https://img.shields.io/badge/GitHub-kilisamemarisaaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -51,10 +33,6 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 <sub>Building systems that survive contact with real users.</sub>
 
 </div>
-
----
-
-## ▸ 访客 / Visitor
 
 <p align="center">
   <img src="https://count.getloli.com/@kilisamemarisaaa?name=kilisamemarisaaa&theme=rule34&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto" alt="Visitor Count" width="100%" />
