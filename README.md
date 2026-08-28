@@ -31,7 +31,7 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=kilisamemarisaaa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" width="100%" />
+  <img src="https://trophy.ryglcloud.net/?username=kilisamemarisaaa&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=6&margin-h=6" alt="GitHub trophies" width="100%" />
 </p>
 
 <p align="center">
