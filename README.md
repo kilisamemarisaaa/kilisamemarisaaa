@@ -27,11 +27,13 @@ Full-stack engineer. Interfaces, APIs, data, AI pipelines and production operati
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kilisamemarisaaa&hide_border=true&theme=tokyonight&background=00000000" alt="Contribution streak" height="165" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" height="200" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=kilisamemarisaaa&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=6&margin-h=6&rank=-%3F" alt="GitHub trophies" width="100%" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" height="200" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" height="200" />
 </p>
 
 <p align="center">
