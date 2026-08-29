@@ -1,0 +1,35 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  # 每天 UTC 1 点（北京时间 9 点）重新生成
+  schedule:
+    - cron: "0 1 * * *"
+
+  # 允许手动触发
+  workflow_dispatch:
+
+  # 推送到 main 时重新生成
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 8
+          THEME: "tokyonight"
+          ANIMATION: "fade"
+          AUTO_PUSH: true
